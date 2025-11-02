@@ -1,0 +1,65 @@
+#EXTM3U
+
+##############
+# 📺 NACIONALES
+##############
+
+#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_TVN_2016.svg" group-title="Nacionales", TVN
+https://mdstrm.com/live-stream-playlist/60b56be1000f4f07b57b8df5.m3u8
+
+#EXTINF:-1 tvg-id="canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Canal_13_2018_logo.svg" group-title="Nacionales", Canal 13
+https://unlimited1-cl-isp.dps.live/c13/c13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_Chilevisi%C3%B3n_2018.svg" group-title="Nacionales", Chilevisión
+https://mdstrm.com/live-stream-playlist/63d10d47a8a10a0832cb06e9.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mega_logo_2013.svg" group-title="Nacionales", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_TVM%C3%A1s.svg" group-title="Nacionales", TV+ (TV Más)
+https://unlimited1-cl-isp.dps.live/tvmas/tvmas.smil/playlist.m3u8
+
+
+##############
+# 📰 NOTICIAS
+##############
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_24_Horas_logo.svg" group-title="Noticias", Canal 24 Horas
+https://mdstrm.com/live-stream-playlist/609ad43d7a43b7099e9cf0b2.m3u8
+
+#EXTINF:-1 tvg-id="cnnchile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CNN_Chile_logo_2017.svg" group-title="Noticias", CNN Chile
+https://unlimited1-cl-isp.dps.live/cnnchile/cnnchile.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="t13envivo.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/T13_logo.svg" group-title="Noticias", T13 En Vivo
+https://unlimited1-cl-isp.dps.live/c13t13/c13t13.smil/playlist.m3u8
+
+
+##############
+# 🌎 REGIONALES
+##############
+
+#EXTINF:-1 tvg-id="uatv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/USTV_logo.png" group-title="Regionales", UATV (Antofagasta)
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/VTV_Valparaiso_logo.png" group-title="Regionales", VTV (Valparaíso)
+https://unlimited1-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ustv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/USTV_Valdivia_logo.png" group-title="Regionales", USTV (Valdivia)
+https://unlimited1-cl-isp.dps.live/ustv/ustv.smil/playlist.m3u8
+
+
+##############
+# 🎵 RADIOS CHILENAS
+##############
+
+#EXTINF:-1 tvg-id="biobio.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Radio_Biobio_logo.svg" group-title="Radios", Radio Bío-Bío
+https://unlimited1-cl-isp.dps.live/biobiofm/biobiofm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radioagricultura.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Radio_Agricultura_logo.svg" group-title="Radios", Radio Agricultura
+https://unlimited1-cl-isp.dps.live/radioagricultura/radioagricultura.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cooperativa.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_Cooperativa_logo.svg" group-title="Radios", Radio Cooperativa
+https://unlimited1-cl-isp.dps.live/cooperativa/cooperativa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="adn.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Radio_ADN_logo.svg" group-title="Radios", Radio ADN
+https://unlimited1-cl-isp.dps.live/adn/adn.smil/playlist.m3u8
