@@ -1,8 +1,8 @@
 #EXTM3U
 
-##############
-# 📺 NACIONALES
-##############
+####################################
+# 🇨🇱 TELEVISION NACIONAL DE CHILE
+####################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mega_logo_2013.svg" group-title="Nacionales", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -14,9 +14,9 @@ https://unlimited1-cl-isp.dps.live/c13/c13.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/tvmas/tvmas.smil/playlist.m3u8
 
 
-##############
-# 🌎 REGIONALES
-##############
+####################################
+# 🌎 REGIONALES DE CHILE
+####################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/USTV_logo.png" group-title="Regionales", UATV (Antofagasta)
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
@@ -28,9 +28,9 @@ https://unlimited1-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ustv/ustv.smil/playlist.m3u8
 
 
-##############
+####################################
 # 🎵 RADIOS CHILENAS
-##############
+####################################
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Radio_Biobio_logo.svg" group-title="Radios", Radio Bío-Bío
 https://unlimited1-cl-isp.dps.live/biobiofm/biobiofm.smil/playlist.m3u8
@@ -43,3 +43,16 @@ https://unlimited1-cl-isp.dps.live/cooperativa/cooperativa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Radio_ADN_logo.svg" group-title="Radios", Radio ADN
 https://unlimited1-cl-isp.dps.live/adn/adn.smil/playlist.m3u8
+
+
+####################################
+# 🌐 INTERNACIONALES ABIERTOS
+####################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/DW_(TV)_Logo_2012.svg" group-title="Internacionales", DW Español (Alemania)
+https://dwamdstream106.akamaized.net/hls/live/2015525/dwstream106/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/France_24_logo.svg" group-title="Internacionales", France 24 Español (Francia)
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Euronews_logo_2016.svg" group-title="Internacionales", Eur
